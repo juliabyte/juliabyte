@@ -3,7 +3,9 @@
 -  Pretendo seguir Ciência da Computação  
 
 
-Atualmente estou construindo minha base em programação, estou no terceiro semestre do bacharelado, nos períodos anteriores fiz duas disciplinas essenciais para o aprendizado de computação: Lógica de Programação e Algoritmos e Estruturas de Dados 1, ambas em linguagem C/C++.
+Atualmente estou construindo minha base em programação. Estou no terceiro semestre
+do bacharelado e já cursei disciplinas fundamentais para a formação em computação,
+como Lógica de Programação e Algoritmos e Estruturas de Dados I, utilizando C/C++.
 
 ---
 
@@ -38,4 +40,5 @@ Atualmente estou construindo minha base em programação, estou no terceiro seme
 ---
 
 ### 🚀 Objetivo
-Desenvolver projetos práticos em Python e C/C++ (e logo em outras linguagens também), e projetos relacionados as disciplinas da universidade. 
+Desenvolver projetos práticos em Python e C/C++, além de trabalhos relacionados 
+às disciplinas do curso, consolidando a base em programação e algoritmos.
